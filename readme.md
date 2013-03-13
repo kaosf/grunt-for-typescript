@@ -4,7 +4,7 @@
 
 If you compile \*.ts files normally with `tsc hoge.ts`, the output JS files have f\*\*king **CR+LF** line feed code. It takes huge sadness for us (◞‸◟).
 
-But you can avoid generating CR+LF with Grunt (grunt-typescript).
+But you can avoid generating CR+LF if you use Grunt (grunt-typescript).
 
 This is a simple example of `Gruntfile.coffee` and `package.json`.
 
