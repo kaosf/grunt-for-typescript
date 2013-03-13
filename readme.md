@@ -24,3 +24,4 @@ node js/sample.js #=> 2
 ## References
 
 * [k-maru/grunt-typescript](https://github.com/k-maru/grunt-typescript)
+* [Slim3 + TypeScript なプロジェクトのGruntfile.jsとか run_server.sh も grunt start-server とかにするべきかなと思う](https://gist.github.com/vvakame/5053711)
