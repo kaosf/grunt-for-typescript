@@ -21,6 +21,10 @@ grunt
 node js/sample.js #=> 2
 ```
 
+## My environment
+
+* Node.js: 0.10.13
+
 ## References
 
 * [k-maru/grunt-typescript](https://github.com/k-maru/grunt-typescript)
