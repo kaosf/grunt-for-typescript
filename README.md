@@ -1,4 +1,4 @@
-# Gruntfile for TypeScript
+# Grunt for TypeScript
 
 ## Why do I need to use Grunt?
 
