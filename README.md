@@ -13,7 +13,7 @@ This is a simple example of `Gruntfile.coffee` and `package.json`.
 ```
 git clone https://github.com/kaosf/gruntfile-for-typescript
 cd gruntfile-for-typescript
-npm install -g grunt-cli@0.1.9 # if you haven't installed grunt-cli yet.
+npm install -g grunt-cli
 npm install
 
 grunt
@@ -23,7 +23,8 @@ node js/sample.js #=> 2
 
 ## My environment
 
-* Node.js: 0.10.13
+* Node.js: 0.10.15
+* grunt-cli: 0.1.9
 
 ## References
 
