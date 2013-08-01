@@ -1,8 +1,13 @@
 {
   "name": "typescript-experiment",
   "version": "0.0.1",
+  "private": true,
   "devDependencies": {
     "grunt": "0.4.1",
     "grunt-typescript": "0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaosf/grunt-for-typescript"
   }
 }
